@@ -34,7 +34,7 @@ func (hook *RequestIDHook) Fire(entry *logrus.Entry) error {
 	}
 
 	// Извлекаем идентификатор запроса из контекста
-	requestID, ok := requestid.EjectRequestID(ctx)
+	requestID, ok := requestid.EjectRequestIDFromCtx(ctx)
 	if !ok {
 		return nil // Возвращаем nil, если идентификатор запроса не найден
 	}
