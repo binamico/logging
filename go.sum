@@ -1,5 +1,5 @@
-github.com/binamico/requestid v1.0.1 h1:sB8sHvf4L9/oaYtOwnnnzpAp+pclPKkhS0EhtxoXvpU=
-github.com/binamico/requestid v1.0.1/go.mod h1:jOYofDo7Sb9B2mA4K2XsazH/V06JgfW80QGS+tQAnw4=
+github.com/binamico/requestid/v2 v2.0.1 h1:8jrkhmaX6cs8ymjVZzfDHZhxnsWaHpC6W4ouUQ0AJMY=
+github.com/binamico/requestid/v2 v2.0.1/go.mod h1:hdj4Kd5n9+6+vrLBmvBRHl7bzL4nxfY1zFje69Z0cZM=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=

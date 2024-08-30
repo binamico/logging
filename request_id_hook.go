@@ -1,7 +1,7 @@
 package logging
 
 import (
-	"github.com/binamico/requestid"
+	"github.com/binamico/requestid/v2"
 	"github.com/sirupsen/logrus"
 )
 
